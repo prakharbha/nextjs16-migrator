@@ -1,6 +1,6 @@
 {
   "name": "nextjs16-migrator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Superior Next.js 14/15 to 16 migration tool with safety features, interactive CLI, and comprehensive documentation",
   "main": "dist/index.js",
   "bin": {
