@@ -1,17 +1,17 @@
-# @nandann/nextjs16-migrator
+# nextjs16-migrator
 
 > **The safest, most comprehensive way to migrate to Next.js 16**
 
-[![npm version](https://badge.fury.io/js/%40nandann%2Fnextjs16-migrator.svg)](https://badge.fury.io/js/%40nandann%2Fnextjs16-migrator)
+[![npm version](https://badge.fury.io/js/nextjs16-migrator.svg)](https://badge.fury.io/js/nextjs16-migrator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Why Choose Our Migration Tool?
 
-While the official `@next/codemod` provides basic transformations, **@nandann/nextjs16-migrator** offers enterprise-grade features that make your migration safe, reliable, and comprehensive.
+While the official `@next/codemod` provides basic transformations, **nextjs16-migrator** offers enterprise-grade features that make your migration safe, reliable, and comprehensive.
 
 ### 🛡️ **Safety First**
 - **Automatic Backups**: Creates git commits + file backups before ANY changes
-- **One-Command Rollback**: `npx @nandann/nextjs16-migrator rollback` 
+- **One-Command Rollback**: `npx nextjs16-migrator rollback` 
 - **Pre-Migration Validation**: Checks compatibility before starting
 - **Dry-Run Mode**: Preview ALL changes before applying them
 
@@ -33,29 +33,29 @@ While the official `@next/codemod` provides basic transformations, **@nandann/ne
 
 ```bash
 # Install globally
-npm install -g @nandann/nextjs16-migrator
+npm install -g nextjs16-migrator
 
 # Or use directly with npx
-npx @nandann/nextjs16-migrator
+npx nextjs16-migrator
 ```
 
 ### Basic Usage
 
 ```bash
 # Interactive mode (recommended for first-time users)
-npx @nandann/nextjs16-migrator
+npx nextjs16-migrator
 
 # Analyze your project
-npx @nandann/nextjs16-migrator analyze
+npx nextjs16-migrator analyze
 
 # Preview changes (dry-run)
-npx @nandann/nextjs16-migrator migrate --dry-run
+npx nextjs16-migrator migrate --dry-run
 
 # Execute migration
-npx @nandann/nextjs16-migrator migrate
+npx nextjs16-migrator migrate
 
 # Rollback if needed
-npx @nandann/nextjs16-migrator rollback
+npx nextjs16-migrator rollback
 ```
 
 ## What Gets Migrated?
@@ -250,7 +250,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - **Migration Consulting**: Professional migration services
 - **Training**: Custom training sessions for your team
 
-Contact us at [hello@nandann.com](mailto:hello@nandann.com) for enterprise support.
+Contact us at [prakhar@nandann.com](mailto:prakhar@nandann.com) for enterprise support.
 
 ---
 
