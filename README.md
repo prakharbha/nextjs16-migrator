@@ -197,9 +197,9 @@ npx @nandann/nextjs16-migrator analyze --detailed
 
 ### Getting Help
 
-- 📚 **Documentation**: [GitHub Repository](https://github.com/nandann-creative/nextjs16-migrator)
+- 📚 **Documentation**: [GitHub Repository](https://github.com/prakharbha/nextjs16-migrator)
 - 🎥 **Video Tutorials**: Check the `docs/videos/` directory
-- 🐛 **Issues**: [GitHub Issues](https://github.com/nandann-creative/nextjs16-migrator/issues)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/prakharbha/nextjs16-migrator/issues)
 - 💬 **Discord**: [Join our community](https://discord.gg/nandann-creative)
 
 ## Comparison with @next/codemod
