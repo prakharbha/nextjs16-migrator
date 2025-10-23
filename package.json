@@ -1,5 +1,5 @@
 {
-  "name": "@nandann/nextjs16-migrator",
+  "name": "nextjs16-migrator",
   "version": "1.0.0",
   "description": "Superior Next.js 14/15 to 16 migration tool with safety features, interactive CLI, and comprehensive documentation",
   "main": "dist/index.js",
@@ -59,6 +59,7 @@
     "chalk": "^5.6.2",
     "commander": "^14.0.1",
     "fs-extra": "^11.3.2",
+    "glob": "^11.0.3",
     "inquirer": "^12.10.0",
     "jscodeshift": "^17.3.0",
     "ora": "^9.0.0",
